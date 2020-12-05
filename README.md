@@ -16,7 +16,7 @@
 Reference-style:
 ![alt text][kortinochka]
 
-[kortinochka]
+[kortinochka]: https://github.com/globus113/hsiza/blob/main/cck.png?raw=true
 
 ### описание страниц
 - главная.можно будет переходить на другие страници  здесь будут популярные ствтьи 
